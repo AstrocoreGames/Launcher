@@ -27,15 +27,6 @@ namespace AstrocoreMain
             }
 
             Directory.SetCurrentDirectory("Games");
-
-            WebClient wc = new WebClient();
-            int version = int.Parse(wc.DownloadString("https://github.com/AstrocoreGames/Launcher/raw/master/version.txt"));
-            wc.Dispose();
-
-            if (version != Globals.version)
-            {
-
-            }
         }
 
         private void ChoicesPlay_Click(object sender, EventArgs e)

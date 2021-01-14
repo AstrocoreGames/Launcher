@@ -53,15 +53,17 @@
             this.ChoicesPlay.UseVisualStyleBackColor = true;
             this.ChoicesPlay.Click += new System.EventHandler(this.ChoicesPlay_Click);
             // 
-            // Form1
+            // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(233, 126);
             this.Controls.Add(this.ChoicesPlay);
             this.Controls.Add(this.Choices);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form1";
+            this.MaximizeBox = false;
+            this.Name = "Main";
             this.Text = "Astrocore Launcher";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
