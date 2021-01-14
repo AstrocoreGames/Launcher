@@ -1,1 +1,1 @@
-# This is just file downloads for the astrocore launcher
+# File downloads and source for the Astrocore Launcher
