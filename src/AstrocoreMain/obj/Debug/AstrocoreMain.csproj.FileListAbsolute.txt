@@ -1,0 +1,10 @@
+C:\Users\pyan4\source\repos\AstrocoreMain\AstrocoreMain\bin\Debug\AstrocoreMain.exe.config
+C:\Users\pyan4\source\repos\AstrocoreMain\AstrocoreMain\bin\Debug\AstrocoreMain.exe
+C:\Users\pyan4\source\repos\AstrocoreMain\AstrocoreMain\bin\Debug\AstrocoreMain.pdb
+C:\Users\pyan4\source\repos\AstrocoreMain\AstrocoreMain\obj\Debug\AstrocoreMain.csprojAssemblyReference.cache
+C:\Users\pyan4\source\repos\AstrocoreMain\AstrocoreMain\obj\Debug\AstrocoreMain.Properties.Resources.resources
+C:\Users\pyan4\source\repos\AstrocoreMain\AstrocoreMain\obj\Debug\AstrocoreMain.csproj.GenerateResource.cache
+C:\Users\pyan4\source\repos\AstrocoreMain\AstrocoreMain\obj\Debug\AstrocoreMain.csproj.CoreCompileInputs.cache
+C:\Users\pyan4\source\repos\AstrocoreMain\AstrocoreMain\obj\Debug\AstrocoreMain.exe
+C:\Users\pyan4\source\repos\AstrocoreMain\AstrocoreMain\obj\Debug\AstrocoreMain.pdb
+C:\Users\pyan4\source\repos\AstrocoreMain\AstrocoreMain\obj\Debug\AstrocoreMain.Main.resources
